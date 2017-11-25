@@ -117,8 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://smarthomehungthinh.com.vn/grand-nest-city/#top' target='_blank'><img src='https://4.bp.blogspot.com/-p1eKfDflNto/WhlOVl-qe8I/AAAAAAAAK-k/y0WW_1_TxjIz8b_Y1SUb4ocjHg7uMpQmQCLcBGAs/s1600/365GRAND.jpg' width='500px'/><br/>CHÍNH THỨC NHẬN GIỮ CHỖ CHIẾT KHẤU 18%</a>. 
-			Liên Hệ: 0901482229 Phòng Kinh Doanh. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://smarthomehungthinh.com.vn/grand-nest-city/#top' target='_blank'><img src='https://4.bp.blogspot.com/-p1eKfDflNto/WhlOVl-qe8I/AAAAAAAAK-k/y0WW_1_TxjIz8b_Y1SUb4ocjHg7uMpQmQCLcBGAs/s1600/365GRAND.jpg' width='500px'/><br/>CHÍNH THỨC NHẬN GIỮ CHỖ CHIẾT KHẤU 18%</<br/>a>.Liên Hệ:0901482229 Phòng Kinh Doanh<br/> . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
